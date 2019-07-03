@@ -1,4 +1,4 @@
-package com.moneytranfer.dto;
+package com.moneytransfer.dto;
 
 import java.time.LocalDate;
 

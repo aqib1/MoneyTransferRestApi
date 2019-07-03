@@ -2,7 +2,7 @@ package com.moneytransfer.utility;
 
 import java.time.LocalDate;
 
-import com.moneytranfer.dto.AccountDto;
+import com.moneytransfer.dto.AccountDto;
 
 public class IAccountHelper {
 	

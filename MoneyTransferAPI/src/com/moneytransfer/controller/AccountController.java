@@ -8,8 +8,8 @@ import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.core.Response;
 
-import com.moneytranfer.dto.AccountDto;
 import com.moneytransfer.business.AccountBusiness;
+import com.moneytransfer.dto.AccountDto;
 
 @Path("/accounts")
 public class AccountController {

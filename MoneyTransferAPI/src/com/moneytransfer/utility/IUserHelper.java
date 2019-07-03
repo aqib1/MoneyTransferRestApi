@@ -3,7 +3,7 @@ package com.moneytransfer.utility;
 import java.time.LocalDate;
 import java.util.Objects;
 
-import com.moneytranfer.dto.UserDto;
+import com.moneytransfer.dto.UserDto;
 
 public class IUserHelper {
 

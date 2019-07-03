@@ -4,8 +4,8 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.moneytranfer.dto.AccountDto;
-import com.moneytranfer.dto.UserDto;
+import com.moneytransfer.dto.AccountDto;
+import com.moneytransfer.dto.UserDto;
 
 public class DataUtils {
 	private static volatile DataUtils dataUtils = null;

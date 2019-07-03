@@ -4,7 +4,7 @@ import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.Response.Status;
 
-import com.moneytranfer.dto.MoneyTranferDto;
+import com.moneytransfer.dto.MoneyTranferDto;
 import com.moneytransfer.services.amounttransferservice.MoneyTransferServiceImpl;
 import com.moneytransfer.utility.TransactException;
 

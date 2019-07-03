@@ -4,8 +4,8 @@ import javax.ws.rs.POST;
 import javax.ws.rs.Path;
 import javax.ws.rs.core.Response;
 
-import com.moneytranfer.dto.MoneyTranferDto;
 import com.moneytransfer.business.MoneyTransferBusiness;
+import com.moneytransfer.dto.MoneyTranferDto;
 
 @Path("/transfer")
 public class MoneyTransferController {

@@ -2,8 +2,8 @@ package com.moneytransfer.services.amounttransferservice;
 
 import java.util.Objects;
 
-import com.moneytranfer.dto.AccountDto;
-import com.moneytranfer.dto.MoneyTranferDto;
+import com.moneytransfer.dto.AccountDto;
+import com.moneytransfer.dto.MoneyTranferDto;
 import com.moneytransfer.services.accountservice.AccountServiceImpl;
 import com.moneytransfer.utility.DataUtils;
 import com.moneytransfer.utility.TransactException;

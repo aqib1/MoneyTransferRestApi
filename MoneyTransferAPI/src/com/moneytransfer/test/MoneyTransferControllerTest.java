@@ -5,8 +5,8 @@ import java.time.LocalDate;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.moneytranfer.dto.AccountDto;
-import com.moneytranfer.dto.MoneyTranferDto;
+import com.moneytransfer.dto.AccountDto;
+import com.moneytransfer.dto.MoneyTranferDto;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;

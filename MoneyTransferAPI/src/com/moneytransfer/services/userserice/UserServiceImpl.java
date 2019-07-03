@@ -2,7 +2,7 @@ package com.moneytransfer.services.userserice;
 
 import java.util.List;
 
-import com.moneytranfer.dto.UserDto;
+import com.moneytransfer.dto.UserDto;
 import com.moneytransfer.utility.DataUtils;
 import com.moneytransfer.utility.IUserHelper;
 import com.moneytransfer.utility.TransactException;

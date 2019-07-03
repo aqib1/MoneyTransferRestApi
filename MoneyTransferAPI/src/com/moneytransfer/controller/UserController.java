@@ -10,8 +10,8 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import com.moneytranfer.dto.UserDto;
 import com.moneytransfer.business.UserBusiness;
+import com.moneytransfer.dto.UserDto;
 
 @Path("/users")
 public class UserController {
