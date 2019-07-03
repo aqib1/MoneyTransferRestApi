@@ -3,7 +3,7 @@ package com.moneytransfer.services.userserice;
 import java.util.List;
 
 import com.moneytranfer.dto.UserDto;
-import com.moneytranfer.utility.TransactException;
+import com.moneytransfer.utility.TransactException;
 
 public interface UserService {
 

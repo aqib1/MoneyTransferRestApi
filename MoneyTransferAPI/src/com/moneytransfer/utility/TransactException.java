@@ -1,4 +1,4 @@
-package com.moneytranfer.utility;
+package com.moneytransfer.utility;
 
 public class TransactException extends RuntimeException {
 

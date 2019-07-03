@@ -7,8 +7,8 @@ import javax.ws.rs.core.Response;
 import javax.ws.rs.core.Response.Status;
 
 import com.moneytranfer.dto.UserDto;
-import com.moneytranfer.utility.TransactException;
 import com.moneytransfer.services.userserice.UserServiceImpl;
+import com.moneytransfer.utility.TransactException;
 
 public class UserBusiness {
 

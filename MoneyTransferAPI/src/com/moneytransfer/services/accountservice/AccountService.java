@@ -3,7 +3,7 @@ package com.moneytransfer.services.accountservice;
 import java.util.List;
 
 import com.moneytranfer.dto.AccountDto;
-import com.moneytranfer.utility.TransactException;
+import com.moneytransfer.utility.TransactException;
 
 public interface AccountService {
 	

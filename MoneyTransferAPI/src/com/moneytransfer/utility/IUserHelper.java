@@ -1,4 +1,4 @@
-package com.moneytranfer.utility;
+package com.moneytransfer.utility;
 
 import java.time.LocalDate;
 import java.util.Objects;

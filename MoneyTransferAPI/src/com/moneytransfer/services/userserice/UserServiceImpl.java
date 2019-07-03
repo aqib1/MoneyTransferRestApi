@@ -3,9 +3,9 @@ package com.moneytransfer.services.userserice;
 import java.util.List;
 
 import com.moneytranfer.dto.UserDto;
-import com.moneytranfer.utility.DataUtils;
-import com.moneytranfer.utility.IUserHelper;
-import com.moneytranfer.utility.TransactException;
+import com.moneytransfer.utility.DataUtils;
+import com.moneytransfer.utility.IUserHelper;
+import com.moneytransfer.utility.TransactException;
 
 public class UserServiceImpl implements UserService {
 	private static volatile UserServiceImpl userServiceImpl = null;

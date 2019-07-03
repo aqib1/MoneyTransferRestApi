@@ -4,7 +4,7 @@ import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 
-import com.moneytranfer.utility.DataUtils;
+import com.moneytransfer.utility.DataUtils;
 
 public class InitDataServlet extends HttpServlet{
 
